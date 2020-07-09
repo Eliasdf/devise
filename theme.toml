@@ -5,7 +5,7 @@ description = "A fast, minimal, responsive Hugo theme for blogs."
 homepage = "https://github.com/austingebauer/devise"
 tags = ["blog", "minimal", "personal", "simple", "clean"]
 features = ["responsive", "google analytics", "recent posts"]
-min_version = "0.61.0"
+min_version = "0.54.0"
 
 [author]
   name = "Austin Gebauer"
